@@ -1,0 +1,1 @@
+for i in range(int(input("Count from")),int(input("Count to: "))+1,int(input("Count by: "))):print(i)
