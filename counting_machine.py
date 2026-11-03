@@ -1,0 +1,1 @@
+for i in range(int(input("Count to: ")+1)): print(i)
