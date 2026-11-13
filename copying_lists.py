@@ -1,0 +1,1 @@
+#You cannot do that because if you do list2 = list1 and edit list2, it links to list1 and will change list1 aswell.
